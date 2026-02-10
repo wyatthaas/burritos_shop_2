@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhaKSbx3uVc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haas0025\\source\\repos\\burrito_shop_2\\burritos_shop_2\\burritos_shop_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haas0025\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.23\\microsoft.dotnet.ilcompiler.8.0.23.nupkg.sha512",
+    "C:\\Users\\haas0025\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.23\\microsoft.net.illink.tasks.8.0.23.nupkg.sha512",
+    "C:\\Users\\haas0025\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.23\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
