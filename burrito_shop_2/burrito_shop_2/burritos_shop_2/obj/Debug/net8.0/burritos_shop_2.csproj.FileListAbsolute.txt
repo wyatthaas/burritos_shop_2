@@ -1,0 +1,15 @@
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\bin\Debug\net8.0\burritos_shop_2.exe
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\bin\Debug\net8.0\burritos_shop_2.deps.json
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\bin\Debug\net8.0\burritos_shop_2.runtimeconfig.json
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\bin\Debug\net8.0\burritos_shop_2.dll
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\bin\Debug\net8.0\burritos_shop_2.pdb
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\burritos_shop_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\burritos_shop_2.AssemblyInfoInputs.cache
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\burritos_shop_2.AssemblyInfo.cs
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\burritos_shop_2.csproj.CoreCompileInputs.cache
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\burritos_shop_2.sourcelink.json
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\burritos_shop_2.dll
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\refint\burritos_shop_2.dll
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\burritos_shop_2.pdb
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\burritos_shop_2.genruntimeconfig.cache
+C:\Users\haas0025\source\repos\burrito_shop_2\burritos_shop_2\obj\Debug\net8.0\ref\burritos_shop_2.dll
